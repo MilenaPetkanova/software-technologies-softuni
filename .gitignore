@@ -48,3 +48,45 @@
 /web/js/
 
 # End of https://www.gitignore.io/api/symfony
+
+# Created by https://www.gitignore.io/api/java,codekit,java-web
+
+### CodeKit ###
+# General CodeKit files to ignore
+config.codekit
+config.codekit3
+/min
+
+### CodeKit Patch ###
+*/codekit-config.json
+.codekit-cache
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+### Java-Web ###
+## ignoring target file
+target/
+
+# End of https://www.gitignore.io/api/java,codekit,java-web
