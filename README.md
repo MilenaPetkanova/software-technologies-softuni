@@ -8,20 +8,20 @@ Software Technologies - September 2017 - Software University
 Basic Tags, Basic Styling, Forms, Simple Sites <br/>
 Blog Design <br/>
 
-2. Javascript
-Syntax and Basic Web
-ExpressJS Overview
-Blog Basic Functionality
+2. Javascript <br/>
+JS Syntax and Basic Web <br/>
+ExpressJS Overview <br/>
+JS Blog Basic Functionality, using Node.js, ExpressJS, MongoDB <br/>
 
 3. PHP
-Syntax and Basic Web
-MVC and Symfony Overview
-Blog Basic Functionality
+PHP Syntax and Basic Web <br/>
+PHP MVC and Symfony  <br/>
+PHP Blog Basic Functionality, using Symfony <br/>
 
 4. Java
-Basic Syntax
-Basic Web
-Blog Basic Functionality
+Java Basic Syntax <br/>
+Java Basic Web with Spring MVC, Hibernate ORM <br/>
+Java Blog Basic Functionality, using Spring Framefork <br/>
 
 5. C#
 ASP.NET MVC Overview
