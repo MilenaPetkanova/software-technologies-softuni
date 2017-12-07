@@ -4,9 +4,9 @@ Software Technologies - September 2017 - Software University
 
 0. Course overview
 
-1. HTML5 and CSS
-Basic Tags, Basic Styling, Forms, Simple Sites
-Blog Design
+1. HTML5 and CSS <br/>
+Basic Tags, Basic Styling, Forms, Simple Sites <br/>
+Blog Design <br/>
 
 2. Javascript
 Syntax and Basic Web
