@@ -29,3 +29,5 @@ Blog Basic Functionality
 
 6. Exams
 
+[Certificate](https://softuni.bg/certificates/details/50670/058510e6)
+
