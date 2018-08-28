@@ -2,7 +2,7 @@
 
 [Certificate](https://softuni.bg/certificates/details/50670/058510e6)
 
-## This course covers:
+## Course Topics:
 
 1. HTML5 and CSS <br/>
 Basic Tags, Basic Styling, Forms, Simple Sites <br/>
