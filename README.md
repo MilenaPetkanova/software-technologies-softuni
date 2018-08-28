@@ -1,8 +1,8 @@
-# software-technologies-softuni
+# Software Technologies - Septemb
 
-Software Technologies - September 2017 - Software University
+[Certificate](https://softuni.bg/certificates/details/50670/058510e6)
 
-0. Course overview
+## This course covers:
 
 1. HTML5 and CSS <br/>
 Basic Tags, Basic Styling, Forms, Simple Sites <br/>
@@ -27,7 +27,5 @@ Java Blog Basic Functionality, using Spring Framefork <br/>
 ASP.NET MVC Overview
 Blog Basic Functionality
 
-6. Exams
 
-[Certificate](https://softuni.bg/certificates/details/50670/058510e6)
 
