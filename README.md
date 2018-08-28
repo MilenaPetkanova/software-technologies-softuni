@@ -1,4 +1,4 @@
-# Software Technologies - Septemb
+# Software Technologies - October 2017
 
 [Certificate](https://softuni.bg/certificates/details/50670/058510e6)
 
